@@ -5,6 +5,7 @@ This was just for fun and a simple reskin on the Waveshare V4.
 
 As I get more time I will probably also update the webUI visuals to match.
 
+This first reskin only changes what is visible on the display and is just cosmetic.
 
 
 Just unzip the folders and copy and paste them into home/bjorn/resources/images  (or whatever directory your bjorn is in)
